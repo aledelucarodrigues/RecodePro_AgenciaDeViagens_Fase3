@@ -47,15 +47,15 @@ Projeto desenvolvido durante o curso formação **Programador FullStack - Recode
 
 #### ** Banco de Dados ** 
 
-- [ ] Ajustes no modelo lógico do banco de dados (Tabelas, atributos e relacionamentos), se houver necessidades, implementar o banco de dados no Mysql de forma manual ou usando o ORM (Object-Relational Mapping ou em português mapeamento objeto-relacional).  
+- [ x ] Ajustes no modelo lógico do banco de dados (Tabelas, atributos e relacionamentos), se houver necessidades, implementar o banco de dados no Mysql de forma manual ou usando o ORM (Object-Relational Mapping ou em português mapeamento objeto-relacional).  
 
 #### ** Back-End ** 
 
-- [ ] Construa o back-end usando tecnologias Java (Estrutura de dados Classes), conexão com MySql usando o padrão de projeto MVC (Implementado o CRUD básico para todas as tabelas do modelo de dados).  
+- [ x ] Construa o back-end usando tecnologias Java (Estrutura de dados Classes), conexão com MySql usando o padrão de projeto MVC (Implementado o CRUD básico para todas as tabelas do modelo de dados).  
 
 #### ** Front-End ** 
 
-- [ ] Criar uma nova versão do site usando o padrão de projeto MVC (Model, View, Controller (Conectar todas as telas de cadastro ao banco de dados usando o padrão de projetos MVC). 
+- [ x ] Criar uma nova versão do site usando o padrão de projeto MVC (Model, View, Controller (Conectar todas as telas de cadastro ao banco de dados usando o padrão de projetos MVC). 
 
 ---
 
@@ -75,7 +75,7 @@ O layout da aplicação foi desenvolvido diretamente na aplicação, utilizando 
 ## 🚀 Como executar o projeto
 
 Este projeto é divido em três partes:
-1. Backend (pasta server) - DISPONÍVEL (em construção)
+1. Backend (pasta server) - DISPONÍVEL
 2. Frontend (pasta web) - DISPONÍVEL
 3. Mobile (pasta mobile) - EM BREVE
 
@@ -91,13 +91,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 #### **Website - Front End** 
 
 -   **HTML**
--   **CSS**
+-   **JSP**
 -   **Bootstrap**
--   **JavaScript (Em construção)**
 
 #### ** BackEnd** 
 
--   **JAVA**
+-   **Java Web - Servlet**
 
 #### ** Dados** 
 
